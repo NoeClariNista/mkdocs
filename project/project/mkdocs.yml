@@ -1,0 +1,18 @@
+site_name: Mi proyecto.
+
+pages:
+  - Home: index.md
+  - Ideas: 
+    - Principio: beginning.md 
+    - Ideas: ideas.md
+    - Final: end.md
+  - Recursos: resources.md
+  - Contacto: contact.md
+
+markdown_extensions:
+  - admonition
+  
+extra_css: 
+  - css/extra.css
+
+theme: readthedocs
