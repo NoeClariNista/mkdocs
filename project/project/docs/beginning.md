@@ -13,6 +13,3 @@ principio.
 
 !!! danger "hola"
     esto es un danger
-
-!!! note "hola"
-    esto es una nota
